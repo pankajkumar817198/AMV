@@ -1,2 +1,1 @@
-# AMV
-AMV is a modern logistics company delivering fast, secure, and efficient cargo solutions across regions.
+AMV - Transport & Logistics Website | Fully Responsive HTML/CSS/JS Website with Image Slider, Animations, and Complete Logistics Solutions including Fumigation, Freight Forwarder, Transporter & Trader Services.
